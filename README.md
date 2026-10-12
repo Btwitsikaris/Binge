@@ -223,11 +223,11 @@ Binge/
 └── vite.config.ts
 ```
 
-<img src="assets/divider.svg" width="100%" alt="" />
 
 
 
 
+<div align="center">
 <br/>
 🍿 Find it. Rate it. Binge it.
 </div>
