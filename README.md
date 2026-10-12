@@ -228,6 +228,6 @@ Binge/
 
 
 
-### 🍿 Find it. Rate it. Binge it.
-
+<br/>
+🍿 Find it. Rate it. Binge it.
 </div>
