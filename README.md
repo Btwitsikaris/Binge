@@ -225,19 +225,8 @@ Binge/
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🎬 Credits
 
-<div align="center">
 
-**Designed & built by [Aniket Majumdar](mailto:aniketmajumdar2006@gmail.com)**
-
-*Questions, bugs or feedback? Drop an email.*
-
-<br/>
-
-<sub>Movie and series data from <a href="https://www.themoviedb.org">TMDB</a> · ratings from <a href="https://www.omdbapi.com">OMDb</a> &amp; <a href="https://mdblist.com">MDBList</a> · episode data from <a href="https://www.tvmaze.com">TVmaze</a><br/>This product uses the TMDB API but is not endorsed or certified by TMDB.</sub>
-
-<br/>
 
 ### 🍿 Find it. Rate it. Binge it.
 
