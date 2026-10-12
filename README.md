@@ -2,17 +2,28 @@
 
 <img src="assets/banner.svg" alt="Binge: Find it. Rate it. Binge it." width="100%" />
 
-<br/>
+<p>&nbsp;</p>
 
-[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-e5252a?style=for-the-badge&labelColor=121212)](https://binge-iota.vercel.app)
-[![React](https://img.shields.io/badge/React_18-121212?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org)
-[![Vite](https://img.shields.io/badge/Vite_5-121212?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev)
-[![Vercel](https://img.shields.io/badge/Vercel-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+<a href="https://binge-iota.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-e5252a?style=for-the-badge&labelColor=121212" alt="Live Demo" /></a>
+<img src="https://img.shields.io/badge/React_18-121212?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Vite_5-121212?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+<img src="https://img.shields.io/badge/Vercel-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
-**Discover movies and series, check every rating in one place, and find your next watch.**
+<p>&nbsp;</p>
 
-[🎟 Features](#-now-showing) · [🏗 How it works](#-behind-the-screen) · [🚀 Quick start](#-quick-start) · [🔑 Config](#-configuration) · [🗂 Structure](#-project-structure) · [🎬 Credits](#-credits)
+<h3>Discover movies and series, check every rating in one place, and find your next watch.</h3>
+
+<sub>
+<a href="#-now-showing">Features</a> &nbsp;|&nbsp;
+<a href="#-behind-the-screen">How it works</a> &nbsp;|&nbsp;
+<a href="#-quick-start">Quick start</a> &nbsp;|&nbsp;
+<a href="#-configuration">Config</a> &nbsp;|&nbsp;
+<a href="#-project-structure">Structure</a> &nbsp;|&nbsp;
+<a href="#-credits">Credits</a>
+</sub>
+
+<p>&nbsp;</p>
 
 </div>
 
